@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくらのなぞなぞ",
+  "base_artist": "角巻わため",
+  "createdAt": "2026-03-04T13:03:39.910289Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらのなぞなぞ",
+      "artist": "角巻わため",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらのなぞなぞ_角巻わため.txt"
+    }
+  ]
+}
